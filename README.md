@@ -1,3 +1,3 @@
 # TranspirationMonitor
-Measures transpiration using an embedded system that I made for a final project in Embedded Systems.
+Measures transpiration using an embedded system that I made for a final project.
 	Transpiration is the process of water migrating upward through a plant’s water column (from root to crown) and consequent evaporation from a plant’s leaves. It is a critical life function for vascular plants, facilitating the movement of water against the force of gravity. It is tied deeply with metabolism, and of course, water balance. Rates of transpiration can be used as an indicator of overall plant health, but has many focused applications. This project’s goal is to make a tool that can measure the transpiration rate of a plant over a period of time.
